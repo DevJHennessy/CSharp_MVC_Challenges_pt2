@@ -31,3 +31,36 @@ C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\Challenges\Challenge_07_
 C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\Challenges\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\obj\Debug\Challenge_07_Postal Calculator.csprojResolveAssemblyReference.cache
 C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\Challenges\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\obj\Debug\Challenge_07_Postal Calculator.dll
 C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\Challenges\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\obj\Debug\Challenge_07_Postal Calculator.pdb
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\ApplicationInsights.config
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\csc.exe
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\vbc.exe
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Challenge_07_Postal Calculator.dll.config
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Challenge_07_Postal Calculator.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Challenge_07_Postal Calculator.pdb
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\obj\Debug\Challenge_07_Postal Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\obj\Debug\Challenge_07_Postal Calculator.dll
+C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_07_Postal Calculator\Challenge_07_Postal Calculator\obj\Debug\Challenge_07_Postal Calculator.pdb
