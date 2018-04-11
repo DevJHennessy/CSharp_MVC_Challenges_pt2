@@ -11,7 +11,12 @@ namespace Challenge_11_SimpleDarts
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Game game = new Game("Player1", "Player2");
+           
+        }
+
+        protected void okButton_Click(object sender, EventArgs e)
+        {
+            Game game = new Game("Player 1", "Player 2");
             string result = game.Play();
             resultLabel.Text = result;
         }

@@ -31,7 +31,7 @@ namespace Challenge_09_PhunWithStrings
             //arrays, otherwise you end up out of bounds.
             //(int i = name.Length - 1; i >= 0; i--) This is a simple formula to go 
             //from the last item to the first item in the array.
-            
+
             /*
             string name = "John Hennessy";
             for (int i = name.Length - 1; i >= 0; i--)
@@ -39,9 +39,9 @@ namespace Challenge_09_PhunWithStrings
                 resultLabel.Text += name[i];
             }
             */
-            
 
-            //2. Reverse this sequence:
+
+            //2. Reverse this sequence: Luke,Leia,Han,Chewbacca
             //Finished should look like Chewbacca,Han,Leia,Luke
 
             /*
@@ -65,11 +65,12 @@ namespace Challenge_09_PhunWithStrings
             */
 
             //3. Use the sequence to create ascii art:
-           //Take Luke, Leia, Han, Chewbacca and make it look like (total 14 characters):
-           /* *****luke*****
-            * *****leia*****
-            * *****han******
-            * **chewbacca*** */
+            //Take Luke, Leia, Han, Chewbacca and make it look like (total 14 characters):
+            /* *****luke*****
+             * *****leia*****
+             * *****han******
+             * **chewbacca*** */
+
             /*
             string names = "Luke,Leia,Han,Chewbacca";
             string[] splitNames = names.Split(',');
@@ -84,13 +85,14 @@ namespace Challenge_09_PhunWithStrings
             */
 
             //4. Solve this puzzle:
-            //Goal is to make the line look like"
+            //Goal is to make the line look like:
             //Now is the time for all good men to come to the aid of their country.
             //A. Remove the remove me.
             //B. Make all lowercase except for first letter.
             //C. Replace all Z's with T's
+            //Start with: string puzzle = "NOW IS ZHEremove-me ZIME FOR ALL GOOD MEN ZO COME ZO ZHE AID OF ZHEIR COUNTRY.";
 
-            
+
             string puzzle = "NOW IS ZHEremove-me ZIME FOR ALL GOOD MEN ZO COME ZO ZHE AID OF ZHEIR COUNTRY.";
             string removeMe = "remove-me";
             int index = puzzle.IndexOf(removeMe);
