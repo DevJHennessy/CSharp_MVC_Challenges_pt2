@@ -1,3 +1,3 @@
 <h1>War the Card Game!</h1>
-#
+
 <p>In this challenge I created a working War Card Game, where the entire deck of fifty-two French playing cards is dealt to two players. Each player then flips the card over and the highest card wins both cards. If the two cards are equal in rank, then a round of war begins, where each player places three cards face-down and then flips over a fourth card to battle. The highest card wins, or another round of war begins if the cards are equal.</p>
