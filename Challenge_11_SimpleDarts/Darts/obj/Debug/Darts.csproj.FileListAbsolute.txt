@@ -8,3 +8,9 @@ C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_11_SimpleD
 C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_11_SimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
 C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_11_SimpleDarts\Darts\obj\Debug\Darts.dll
 C:\Users\Student\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_11_SimpleDarts\Darts\obj\Debug\Darts.pdb
+C:\Users\conta\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_11_SimpleDarts\Darts\bin\Debug\Darts.dll
+C:\Users\conta\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_11_SimpleDarts\Darts\bin\Debug\Darts.pdb
+C:\Users\conta\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_11_SimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\conta\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_11_SimpleDarts\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_11_SimpleDarts\Darts\obj\Debug\Darts.dll
+C:\Users\conta\Documents\GitHub\CSharp_MVC_Challenges_pt2\Challenge_11_SimpleDarts\Darts\obj\Debug\Darts.pdb

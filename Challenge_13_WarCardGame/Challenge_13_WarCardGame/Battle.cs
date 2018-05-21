@@ -90,10 +90,12 @@ namespace Challenge_13_WarCardGame
             //Didn't work, even with void changed to string...
 
             _sb.Append("<br />Battle Cards: ");
+            _sb.Append("Player One gets ");
             _sb.Append(card1.Rank);
             _sb.Append(" of ");
             _sb.Append(card1.Suit);
-            _sb.Append(" versus ");
+            _sb.Append(" and ");
+            _sb.Append("Player Two gets ");
             _sb.Append(card2.Rank);
             _sb.Append(" of ");
             _sb.Append(card2.Suit);
